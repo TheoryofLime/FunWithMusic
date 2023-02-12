@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\bin\Debug\net6.0\FunWithMusic.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\refint\FunWithMusic.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\FunWithMusic.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment3\FunWithMusic\FunWithMusic\obj\Debug\net6.0\ref\FunWithMusic.dll
